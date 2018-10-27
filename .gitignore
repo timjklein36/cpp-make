@@ -1,0 +1,5 @@
+object
+out
+.vscode
+*.gch
+*.o
